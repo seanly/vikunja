@@ -7,7 +7,7 @@ import pluginVueTs from '@vue/eslint-config-typescript/recommended.js'
 
 export default [
 	js.configs.recommended,
-	...pluginVue.configs['vue3-recommended'],
+	...pluginVue.configs['flat/recommended'],
 	pluginVueTs,
 	{
 		files: ['src/**/*.{js,ts,vue}'],
