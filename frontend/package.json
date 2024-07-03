@@ -155,7 +155,7 @@
     "cypress": "13.13.0",
     "esbuild": "0.23.0",
     "eslint": "8.57.0",
-    "eslint-plugin-vue": "9.26.0",
+    "eslint-plugin-vue": "9.27.0",
     "happy-dom": "14.12.3",
     "histoire": "0.17.17",
     "postcss": "8.4.39",
